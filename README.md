@@ -1,9 +1,9 @@
 # Namma Yatri - Ride and Payment Analysis Project
 
-##Overview
+## Overview
 Namma Yatri is a comprehensive project that analyzes ride and payment data to gain insights into the performance and trends of a fictional ride-sharing service. The dataset includes information about trips, locations, payments, and various parameters related to the rides.
 
-##Key Tables
+## Key Tables
 Trips_Details: Contains details about individual trips, including search activities, cancellations, and ride completion status.
 
 Rides: Encompasses information about each ride, including fare details, locations, distances, and durations.
@@ -14,7 +14,7 @@ Duration: Represents various time durations for analysis.
 
 Location: Lists different assembly locations relevant to the rides.
 
-##Analysis Highlights
+## Analysis Highlights
 Total Trips: Calculates the total number of unique trips conducted by the ride-sharing service.
 
 Total Drivers: Determines the count of unique drivers associated with the service.

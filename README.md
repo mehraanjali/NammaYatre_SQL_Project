@@ -15,6 +15,8 @@ Describes different payment methods available in the system.
 
 #### Duration: 
 Represents various time durations for analysis.
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/51e4443a-7424-42a3-a5b8-3a2d9de44e69)
+
 
 #### Location: 
 Lists different assembly locations relevant to the rides.

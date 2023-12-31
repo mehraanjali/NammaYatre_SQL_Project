@@ -6,12 +6,19 @@ Namma Yatri is a comprehensive project that analyzes ride and payment data to ga
 ## Key Tables
 #### Trips_Details: 
 Contains details about individual trips, including search activities, cancellations, and ride completion status.
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/57be2fa9-ef7e-4d76-903d-847eb86a8784)
+(2161 rows)
 
 #### Rides: 
 Encompasses information about each ride, including fare details, locations, distances, and durations.
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/eb9dedf2-4710-4126-a1bd-701fe78a7915)
+(983 rows)
+
 
 #### Payment: 
 Describes different payment methods available in the system.
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/3235193a-d1eb-43ec-81f2-3961e52aa263)
+
 
 #### Duration: 
 Represents various time durations for analysis.
@@ -20,6 +27,10 @@ Represents various time durations for analysis.
 
 #### Location: 
 Lists different assembly locations relevant to the rides.
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/798a1127-956c-4d91-91d7-accea489a0af)
+![image](https://github.com/mehraanjali/NammaYatre_SQL_Project/assets/31501965/e0e84fea-d7b6-4728-8f28-bca809b46de0)
+
+
 
 ## Analysis Highlights
 #### Total Trips: 
